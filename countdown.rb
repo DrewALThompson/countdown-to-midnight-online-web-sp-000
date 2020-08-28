@@ -8,4 +8,4 @@ end
 "HAPPY NEW YEAR!"
 end
 
-countdown_with_sleep(number, num_sec='5')
+countdown_with_sleep(number, num_secs='5')
