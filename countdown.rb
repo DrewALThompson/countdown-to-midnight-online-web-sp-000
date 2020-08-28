@@ -9,8 +9,6 @@ end
 end
 
 countdown_with_sleep(number)
-sleep 5
-end
 while number > 0 
   puts "#{number} SECOND(S)!"
   number -= 1 
