@@ -14,5 +14,6 @@ while number > 0
   number -= 1 
   sleep 1
 end
+end
 "HAPPY NEW YEAR!"
 end
